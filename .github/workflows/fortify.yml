@@ -61,7 +61,7 @@ jobs:
           FOD_CLIENT_SECRET: ${{secrets.FOD_CLIENT_SECRET}}
           DO_EXPORT: true
           FOD_RELEASE: GHMyApp.NET:GHMyRelease2
-          SETUP_EXTRA_OPTS: --app-owner kruthiuser
+          SETUP_EXTRA_OPTS: --app-owner 39451
           DO_SETUP: true
           DO_JOB_SUMMARY: true
           DO_PR_COMMENT: true
